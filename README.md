@@ -112,7 +112,7 @@ Excel-to-Professional-Report-Generator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Excel-to-Professional-Report-Generator.git
+git clone https://github.com/Hakouben26/Excel-to-Professional-Report-Generator.git
 cd Excel-to-Professional-Report-Generator
 ```
 
